@@ -1,1 +1,2 @@
-# newgit
+#newgit
+creating a new branch is quick
